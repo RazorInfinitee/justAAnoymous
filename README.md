@@ -7,6 +7,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-1/950186140617551903.png)
 
 - ⚡ Fun fact **I Use Neovim** 
+- ⚡ Fun fact **My WM is DWM & BSPWM**
 
 
 <details>
